@@ -111,7 +111,7 @@ bool isObscured(QWidget* w);
 // Open debug.log
 void openDebugLogfile();
 
-// Open pivx.conf
+// Open cafe.conf
 void openConfigfile();
 
 // Open masternode.conf
