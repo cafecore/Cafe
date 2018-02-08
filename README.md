@@ -1,7 +1,7 @@
 Cafecoin - The feature of Fair Trade Coffee
 =====================================
 
-[![Build Status](https://travis-ci.org/headhunter911/Cafecoin.svg?branch=master)](https://travis-ci.org/headhunter911/Cafecoin)
+[![Build Status](https://travis-ci.org/cafecore/Cafe.svg?branch=master)](https://travis-ci.org/cafecore/)
 
 Description here
 
